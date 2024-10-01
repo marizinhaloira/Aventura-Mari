@@ -1,0 +1,25 @@
+body {
+color: pink;
+background:black ;
+font-family: "Reddit Sans Condensed", sans-serif;
+font-size: 20px;
+display: flex;
+justify-content: center;
+}
+button {
+color:black ;
+background: rgb(117, 186, 233);
+font-family: 'Courier New', Courier, monospace;
+font-size: 15px;
+
+}
+.passo {
+    display: none;
+}
+.passo.ativo {
+    display: block;
+}
+
+img{
+    height: 300px;
+}
